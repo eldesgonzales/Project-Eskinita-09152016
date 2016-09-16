@@ -1,0 +1,14 @@
+//-----------------------------------------
+// GRF Files
+// Add as many as needed.
+//-----------------------------------------
+grf: D:\ELDES\[Programming]\RO\05182015 Project Renewal\rdata.grf
+grf: D:\ELDES\[Programming]\RO\05182015 Project Renewal\data.grf
+grf: D:\ELDES\[Programming]\RO\05182015 Project Renewal\schallmar.grf
+grf: D:\ELDES\[Programming]\RO\05182015 Project Renewal\dye.grf
+grf: D:\ELDES\[Programming]\RO\05182015 Project Renewal\ydata.grf
+//-----------------------------------------
+// Data Directory
+// Use the base folder, not the data\ path.
+//-----------------------------------------
+data_dir: D:\ELDES\[Programming]\RO\05182015 Project Renewal\
