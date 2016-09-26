@@ -35,7 +35,6 @@
 1183,499,100	// BF_Two_Handed_Sword1
 1184,499,100	// BF_Two_Handed_Sword2
 1187,499,100	// Krieger_Twohand_Sword1
-1190,507,100	// Claymore_C
 1192,499,100	// P_Slayer1
 1193,499,100	// P_Slayer2
 1197,499,100	// P_Slayer3
@@ -79,7 +78,6 @@
 1427,507,100	// Spear_Of_Excellent
 1428,475,100	// Long_Horn_M
 1429,475,100	// Hunting_Spear_M
-1430,507,100	// Pike_C
 1434,499,100	// P_Spear1
 1437,499,100	// TE_Woe_Pike
 1482,499,100	// BF_Lance1
@@ -124,7 +122,6 @@
 1642,507,100	// Staff_Of_Darkness
 1644,475,100	// Piercing_Staff_M
 1645,475,100	// Lich_Bone_Wand_M
-1650,499,100	// P_Staff1
 1651,499,100	// P_Staff2
 1652,499,100	// Tourist_Staff
 1653,507,100	// Staff_Of_Healing_C
